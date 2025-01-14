@@ -1,0 +1,32 @@
+# Connection to namecoind
+user: "user"
+password: "<password goes here>"
+host: "127.0.0.1"
+port: 8336
+
+# How often to check IP addresses if they're up (1 hour)
+ip_check_interval: 3600
+
+# How often to check domain names (only checked on functioning IPs) (1 day)
+name_check_interval: 86400
+
+# Number of parallel workers
+ip_check_workers: 30
+
+# Timeout per request (seconds)
+ip_check_timeout: 10
+
+# Put your contact info here since you're crawling people's websites
+# useragent: "bitdumper: 0.1 Namecoin domain tester - contact: PUT YOUR EMAIL HERE"
+
+# Used when querying names to make sure the server works with the name suffix
+domain_suffix: "pkt.wiki"
+
+# Direct connect to the bit nameserver to speed up resolution
+nameserver_ip: "127.0.0.1"
+
+# Store data in this file
+db_file: "domains.json"
+
+# Bind to this http endpoint
+http_bind: "127.0.0.1:9988"

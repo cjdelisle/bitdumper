@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Names Table</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        a {
+            text-decoration: none;
+            color: #007bff;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Namecoin List</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Last Checked</th>
+            <th>Summary</th>
+        </tr>
+    </thead>
+    <tbody id="names-table-body">
+    </tbody>
+</table>
+
+<script>
+async function fetchNames() {
+    try {
+        const response = await fetch('/api/v1/names');
+        const namesData = await response.json();
+        populateTable(namesData);
+    } catch (error) {
+        console.error('Error fetching names:', error);
+    }
+}
+
+function populateTable(namesData) {
+    const tableBody = document.getElementById('names-table-body');
+    tableBody.innerHTML = ''; // Clear existing content
+
+    namesData.forEach(entry => {
+        const row = document.createElement('tr');
+
+        const nameCell = document.createElement('td');
+        const nameLink = document.createElement('a');
+        nameLink.href = `http://${entry.name}.${window.location.host}`;
+        nameLink.textContent = `${entry.name}.bit.pkt`;
+        nameCell.appendChild(nameLink);
+        row.appendChild(nameCell);
+
+        const lastCheckedCell = document.createElement('td');
+        const date = new Date(entry.last_checked * 1000);
+        lastCheckedCell.textContent = date.toLocaleString();
+        row.appendChild(lastCheckedCell);
+
+        const summaryCell = document.createElement('td');
+        summaryCell.textContent = entry.summary;
+        row.appendChild(summaryCell);
+
+        tableBody.appendChild(row);
+    });
+}
+
+document.addEventListener('DOMContentLoaded', fetchNames);
+</script>
+
+</body>
+</html>
