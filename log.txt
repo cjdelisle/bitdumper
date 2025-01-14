@@ -1,0 +1,2067 @@
+IP: http://10.10.10.10/ is not public
+First query
+IP: http://136.243.70.96/ is UP
+IP: http://148.251.189.173/ is UP
+IP: http://68.183.220.207/ is UP
+IP: http://79.98.25.1/ is UP
+IP: http://24.55.109.138/ is DOWN
+99139 items, next query: d/obeid
+IP: http://69.65.34.10/ is DOWN
+IP: http://95.65.35.43/ is DOWN
+IP: http://89.42.11.18/ is DOWN
+IP: http://95.105.105.155/ is DOWN
+IP: http://54.244.21.227/ is DOWN
+IP: http://96.250.211.77/ is DOWN
+IP: http://91.214.129.34/ is DOWN
+IP: http://75.83.163.162/ is DOWN
+IP: http://87.106.94.14/ is DOWN
+IP: http://64.111.122.211/ is DOWN
+IP: http://83.150.84.216/ is DOWN
+IP: http://67.222.130.14/ is DOWN
+IP: http://75.111.54.247/ is DOWN
+IP: http://146.185.143.123/ is DOWN
+IP: http://88.191.177.174/ is DOWN
+IP: http://198.74.118.76/ is DOWN
+IP: http://198.50.235.171/ is DOWN
+IP: http://71.231.39.181/ is DOWN
+IP: http://80.93.62.127/ is DOWN
+IP: http://66.175.209.96/ is DOWN
+IP: http://98.207.155.220/ is DOWN
+IP: http://209.190.18.220/ is DOWN
+IP: http://173.13.173.51/ is DOWN
+IP: http://182.50.143.10/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://194.116.215.67/ is DOWN
+IP: http://95.85.56.251/ is UP
+IP: http://50.56.235.139/ is UP
+IP: http://64.90.33.200/ is UP
+IP: http://103.9.168.50/ is UP
+IP: http://80.108.45.204/ is DOWN
+IP: http://92.243.7.197/ is DOWN
+IP: http://188.40.15.5/ is DOWN
+99394 items, next query: d/comanic
+IP: http://81.83.16.111/ is DOWN
+IP: http://107.155.190.118/ is DOWN
+IP: http://178.63.16.21/ is DOWN
+IP: http://136.250.188.182/ is DOWN
+IP: http://174.136.102.110/ is DOWN
+IP: http://131.251.168.81/ is DOWN
+IP: http://37.187.42.34/ is DOWN
+IP: http://66.27.52.246/ is DOWN
+IP: http://69.90.47.167/ is DOWN
+IP: http://92.63.173.211/ is DOWN
+IP: http://199.117.122.68/ is DOWN
+IP: http://5.39.84.105/ is DOWN
+IP: http://85.10.225.162/ is DOWN
+IP: http://184.168.152.32/ is DOWN
+IP: http://173.228.7.244/ is DOWN
+IP: http://174.129.6.100/ is DOWN
+IP: http://216.224.176.55/ is DOWN
+IP: http://173.201.98.39/ is DOWN
+IP: http://4.30.111.131/ is DOWN
+IP: http://72.2.112.246/ is DOWN
+IP: http://81.56.110.168/ is DOWN
+IP: http://78.47.86.43/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://10.0.0.7/ is not public
+IP: http://130.83.218.60/ is DOWN
+IP: http://66.175.215.51/ is DOWN
+IP: http://162.244.82.96/ is UP
+IP: http://96.30.57.11/ is UP
+IP: http://72.14.191.28/ is UP
+IP: http://114.34.70.3/ is DOWN
+IP: http://54.200.150.228/ is UP
+IP: http://50.57.77.63/ is UP
+99680 items, next query: d/indentor
+IP: http://67.241.55.206/ is DOWN
+IP: http://95.211.228.147/ is DOWN
+99702 items, next query: d/order-now
+IP: http://162.243.53.67/ is DOWN
+IP: http://65.92.198.92/ is DOWN
+IP: http://81.167.4.10/ is DOWN
+IP: http://64.34.219.38/ is DOWN
+IP: http://174.143.170.167/ is DOWN
+IP: http://199.127.226.132/ is DOWN
+IP: http://168.144.82.217/ is DOWN
+IP: http://24.73.254.245/ is DOWN
+IP: http://209.9.227.56/ is DOWN
+IP: http://198.27.115.229/ is DOWN
+IP: http://82.111.90.210/ is DOWN
+IP: http://184.168.16.1/ is DOWN
+IP: http://66.248.204.16/ is DOWN
+IP: http://24.234.152.235/ is DOWN
+IP: http://198.245.51.42/ is DOWN
+IP: http://81.201.115.141/ is DOWN
+IP: http://178.33.154.85/ is DOWN
+IP: http://46.149.28.113/ is DOWN
+IP: http://212.100.247.132/ is DOWN
+need_test_names = 3
+check_names = 1
+Name: eircoin is UP (Wispy.me)
+Syncing db
+IP: http://192.168.178.1/ is not public
+IP: http://104.248.200.247/ is UP
+IP: http://31.220.24.253/ is UP
+IP: http://66.228.58.49/ is DOWN
+IP: http://104.200.30.144/ is UP
+IP: http://173.239.33.84/ is UP
+IP: http://198.23.231.103/ is UP
+IP: http://184.168.122.82/ is DOWN
+IP: http://192.241.222.65/ is UP
+99712 items, next query: d/virgocoins
+IP: http://78.167.1.8/ is DOWN
+IP: http://80.86.83.121/ is DOWN
+IP: http://96.126.100.72/ is DOWN
+IP: http://84.22.26.99/ is DOWN
+IP: http://85.229.40.145/ is DOWN
+IP: http://213.114.125.211/ is DOWN
+IP: http://78.47.28.26/ is DOWN
+IP: http://69.50.225.155/ is DOWN
+IP: http://67.193.126.53/ is DOWN
+IP: http://111.90.151.114/ is DOWN
+IP: http://173.193.26.147/ is DOWN
+IP: http://216.34.181.96/ is DOWN
+IP: http://64.34.181.157/ is DOWN
+IP: http://198.199.97.91/ is DOWN
+IP: http://54.225.156.17/ is DOWN
+IP: http://147.251.209.29/ is DOWN
+IP: http://87.229.86.26/ is DOWN
+IP: http://185.19.248.90/ is DOWN
+IP: http://173.73.90.24/ is DOWN
+IP: http://185.234.217.250/ is DOWN
+IP: http://176.58.111.244/ is DOWN
+need_test_names = 2
+check_names = 1
+Name: dotbid is UP (Wispy.me)
+Syncing db
+Error checking 91.121.62.12: error sending request for url (http://91.121.62.12/): connection closed before message completed
+IP: http://91.121.62.12/ is DOWN
+IP: http://62.143.88.147/ is DOWN
+IP: http://199.34.228.50/ is UP
+IP: http://88.80.185.175/ is DOWN
+IP: http://96.126.114.151/ is DOWN
+IP: http://192.3.115.200/ is DOWN
+99750 items, next query: d/smallmouthed
+IP: http://109.238.34.162/ is DOWN
+IP: http://85.17.216.117/ is DOWN
+84096 items, next query: d/gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle
+Syncing db
+IP: http://54.225.200.50/ is DOWN
+IP: http://46.4.46.73/ is DOWN
+IP: http://196.1.61.226/ is DOWN
+IP: http://84.85.128.248/ is DOWN
+IP: http://188.117.32.243/ is DOWN
+IP: http://91.151.181.162/ is DOWN
+IP: http://162.243.150.165/ is DOWN
+IP: http://50.172.84.107/ is DOWN
+IP: http://213.171.198.110/ is DOWN
+IP: http://192.134.5.8/ is DOWN
+IP: http://108.66.134.195/ is DOWN
+IP: http://131.251.168.99/ is DOWN
+IP: http://109.67.136.187/ is DOWN
+IP: http://108.3.146.29/ is DOWN
+IP: http://50.63.196.50/ is DOWN
+IP: http://79.99.135.181/ is DOWN
+IP: http://85.159.233.238/ is DOWN
+IP: http://140.113.246.196/ is DOWN
+IP: http://95.211.41.75/ is DOWN
+IP: http://76.219.106.128/ is DOWN
+IP: http://84.200.122.221/ is DOWN
+IP: http://62.189.37.62/ is DOWN
+need_test_names = 1
+check_names = 1
+Name: dotbot is UP (Wispy.me)
+Syncing db
+IP: http://149.126.77.253/ is UP
+IP: http://208.94.116.10/ is UP
+IP: http://64.14.68.156/ is UP
+IP: http://66.96.161.192/ is UP
+IP: http://198.61.177.197/ is UP
+Error checking 157.230.194.58: error sending request for url (http://157.230.194.58/): connection closed before message completed
+IP: http://157.230.194.58/ is DOWN
+IP: http://197.221.2.183/ is DOWN
+IP: http://216.241.32.24/ is DOWN
+IP: http://213.171.198.109/ is DOWN
+IP: http://192.184.82.151/ is DOWN
+IP: http://24.22.222.18/ is DOWN
+IP: http://64.85.162.227/ is DOWN
+IP: http://184.154.115.250/ is DOWN
+IP: http://130.206.83.99/ is DOWN
+IP: http://109.228.11.33/ is DOWN
+IP: http://67.205.7.22/ is DOWN
+IP: http://24.165.177.193/ is DOWN
+IP: http://134.2.2.29/ is DOWN
+IP: http://94.228.142.105/ is DOWN
+IP: http://77.107.101.162/ is DOWN
+IP: http://82.221.105.125/ is DOWN
+IP: http://54.187.171.163/ is DOWN
+IP: http://199.102.104.163/ is DOWN
+IP: http://98.113.12.189/ is DOWN
+IP: http://75.127.14.216/ is DOWN
+IP: http://192.241.227.144/ is DOWN
+IP: http://67.190.148.149/ is DOWN
+IP: http://192.241.213.154/ is DOWN
+IP: http://69.132.105.6/ is DOWN
+IP: http://107.150.34.218/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://178.33.42.216/ is UP
+IP: http://192.166.219.22/ is UP
+IP: http://67.205.32.66/ is UP
+IP: http://198.199.84.114/ is UP
+IP: http://50.116.3.249/ is UP
+IP: http://74.121.192.212/ is DOWN
+IP: http://59.167.122.117/ is DOWN
+IP: http://64.34.181.158/ is DOWN
+IP: http://67.205.62.251/ is DOWN
+IP: http://50.28.20.5/ is DOWN
+IP: http://173.194.41.99/ is DOWN
+IP: http://24.21.141.203/ is DOWN
+IP: http://91.222.8.101/ is DOWN
+IP: http://96.127.162.58/ is DOWN
+IP: http://37.206.132.88/ is DOWN
+IP: http://41.178.124.167/ is DOWN
+IP: http://69.16.172.158/ is DOWN
+IP: http://50.16.212.166/ is DOWN
+IP: http://71.3.17.85/ is DOWN
+IP: http://5.39.95.17/ is DOWN
+IP: http://216.242.215.15/ is DOWN
+IP: http://24.73.154.245/ is DOWN
+IP: http://64.57.244.219/ is DOWN
+IP: http://199.27.78.133/ is DOWN
+IP: http://144.76.7.83/ is DOWN
+IP: http://192.241.229.106/ is DOWN
+IP: http://69.43.163.181/ is DOWN
+IP: http://94.76.254.5/ is DOWN
+IP: http://66.23.238.90/ is DOWN
+IP: http://97.74.215.19/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://108.160.166.62/ is DOWN
+IP: http://81.169.145.64/ is UP
+IP: http://62.48.3.143/ is UP
+IP: http://83.169.4.158/ is UP
+IP: http://31.3.227.105/ is UP
+IP: http://162.243.56.5/ is UP
+IP: http://107.20.252.197/ is UP
+IP: http://50.28.58.39/ is UP
+IP: http://31.170.160.107/ is UP
+IP: http://64.64.181.157/ is UP
+IP: http://99.192.226.225/ is DOWN
+IP: http://5.35.253.206/ is DOWN
+IP: http://72.29.68.31/ is DOWN
+IP: http://95.85.5.26/ is DOWN
+IP: http://71.1.45.3/ is DOWN
+IP: http://82.199.65.61/ is DOWN
+IP: http://109.235.51.82/ is DOWN
+IP: http://62.76.191.55/ is DOWN
+IP: http://106.187.47.17/ is DOWN
+IP: http://96.127.133.42/ is DOWN
+IP: http://85.234.133.191/ is DOWN
+IP: http://106.172.229.51/ is DOWN
+IP: http://74.125.39.104/ is DOWN
+IP: http://137.135.59.87/ is DOWN
+IP: http://62.75.221.135/ is DOWN
+IP: http://81.89.108.66/ is DOWN
+IP: http://94.242.255.57/ is DOWN
+IP: http://65.39.148.219/ is DOWN
+IP: http://69.16.226.114/ is DOWN
+IP: http://69.20.153.106/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://88.198.50.88/ is UP
+IP: http://87.106.129.143/ is DOWN
+IP: http://46.28.110.250/ is UP
+IP: http://91.198.106.9/ is UP
+IP: http://5.45.103.155/ is UP
+IP: http://65.39.205.54/ is UP
+IP: http://72.14.189.138/ is UP
+IP: http://95.138.187.100/ is DOWN
+IP: http://23.21.182.158/ is DOWN
+IP: http://208.69.127.59/ is DOWN
+IP: http://54.213.148.20/ is DOWN
+IP: http://54.196.123.196/ is DOWN
+IP: http://74.125.239.142/ is DOWN
+IP: http://108.61.170.200/ is DOWN
+IP: http://164.15.127.20/ is DOWN
+IP: http://223.255.151.138/ is DOWN
+IP: http://109.228.16.166/ is DOWN
+IP: http://54.247.74.16/ is DOWN
+IP: http://5.9.107.79/ is DOWN
+IP: http://46.19.36.117/ is DOWN
+IP: http://94.229.76.35/ is DOWN
+IP: http://198.52.126.162/ is DOWN
+IP: http://216.38.28.31/ is DOWN
+IP: http://94.23.188.92/ is DOWN
+IP: http://78.63.237.151/ is DOWN
+IP: http://128.199.241.132/ is DOWN
+IP: http://98.101.247.254/ is DOWN
+IP: http://70.176.29.148/ is DOWN
+IP: http://87.98.245.54/ is DOWN
+IP: http://213.157.94.92/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.1.101/ is not public
+IP: http://127.0.0.2/ is not public
+IP: http://95.143.172.53/ is UP
+IP: http://94.23.252.190/ is UP
+IP: http://31.170.162.74/ is UP
+IP: http://72.14.176.151/ is UP
+IP: http://184.105.182.100/ is UP
+IP: http://69.89.27.207/ is DOWN
+IP: http://173.192.120.180/ is DOWN
+IP: http://46.17.96.34/ is DOWN
+IP: http://192.241.185.220/ is DOWN
+IP: http://27.33.60.98/ is DOWN
+IP: http://24.166.109.11/ is DOWN
+IP: http://64.142.56.172/ is DOWN
+IP: http://162.251.81.36/ is DOWN
+IP: http://85.159.41.95/ is DOWN
+IP: http://162.218.208.166/ is DOWN
+IP: http://87.106.29.250/ is DOWN
+IP: http://180.157.5.17/ is DOWN
+IP: http://94.71.158.121/ is DOWN
+IP: http://50.31.24.44/ is DOWN
+IP: http://69.85.92.119/ is DOWN
+IP: http://1.2.3.5/ is DOWN
+IP: http://36.55.238.28/ is DOWN
+IP: http://54.213.6.154/ is DOWN
+IP: http://81.169.249.52/ is DOWN
+IP: http://162.243.73.168/ is DOWN
+IP: http://83.167.252.116/ is DOWN
+IP: http://164.138.28.170/ is DOWN
+IP: http://207.38.168.148/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://38.180.228.53/ is UP
+IP: http://162.159.249.65/ is UP
+IP: http://80.98.159.161/ is DOWN
+IP: http://83.169.22.26/ is UP
+IP: http://80.211.208.129/ is UP
+IP: http://107.152.38.155/ is UP
+IP: http://192.185.40.199/ is UP
+IP: http://185.4.135.71/ is UP
+IP: http://46.151.84.16/ is DOWN
+IP: http://108.167.43.8/ is DOWN
+IP: http://203.123.103.166/ is DOWN
+IP: http://173.77.182.230/ is DOWN
+IP: http://54.212.254.214/ is DOWN
+IP: http://62.89.167.200/ is DOWN
+IP: http://98.232.93.72/ is DOWN
+IP: http://116.240.169.115/ is DOWN
+IP: http://190.115.24.114/ is DOWN
+IP: http://75.182.95.45/ is DOWN
+IP: http://173.194.43.119/ is DOWN
+IP: http://212.232.51.96/ is DOWN
+IP: http://95.88.145.34/ is DOWN
+IP: http://46.105.17.248/ is DOWN
+IP: http://184.105.204.187/ is DOWN
+IP: http://176.9.79.229/ is DOWN
+IP: http://67.23.25.60/ is DOWN
+IP: http://213.251.184.77/ is DOWN
+IP: http://213.206.120.221/ is DOWN
+IP: http://82.211.205.202/ is DOWN
+IP: http://24.36.182.99/ is DOWN
+IP: http://76.72.175.169/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://10.0.0.1/ is not public
+IP: http://0.0.0.0/ is not public
+IP: http://194.120.116.196/ is DOWN
+IP: http://2.35.5.112/ is UP
+IP: http://184.73.251.152/ is DOWN
+IP: http://67.227.240.201/ is DOWN
+IP: http://54.235.205.195/ is UP
+IP: http://65.254.248.204/ is UP
+IP: http://173.254.28.61/ is UP
+IP: http://192.64.115.84/ is UP
+IP: http://95.211.30.122/ is DOWN
+IP: http://216.51.232.177/ is DOWN
+IP: http://208.186.102.190/ is DOWN
+IP: http://211.154.148.12/ is DOWN
+IP: http://142.165.167.196/ is DOWN
+IP: http://212.43.240.101/ is DOWN
+IP: http://74.217.87.169/ is DOWN
+IP: http://193.91.69.195/ is DOWN
+IP: http://77.175.119.133/ is DOWN
+IP: http://213.171.197.102/ is DOWN
+IP: http://72.47.203.176/ is DOWN
+IP: http://212.48.8.140/ is DOWN
+IP: http://69.67.54.200/ is DOWN
+IP: http://162.243.93.40/ is DOWN
+IP: http://60.28.135.8/ is DOWN
+IP: http://74.201.150.103/ is DOWN
+IP: http://190.224.159.252/ is DOWN
+IP: http://192.0.131.79/ is DOWN
+IP: http://92.222.26.81/ is DOWN
+IP: http://195.78.50.3/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://82.66.70.225/ is UP
+IP: http://54.235.215.150/ is DOWN
+IP: http://173.255.227.13/ is DOWN
+IP: http://69.165.169.164/ is DOWN
+IP: http://93.158.134.11/ is UP
+IP: http://66.228.36.80/ is UP
+IP: http://192.155.88.40/ is UP
+IP: http://98.199.191.238/ is DOWN
+IP: http://24.6.74.4/ is DOWN
+IP: http://184.74.181.118/ is DOWN
+IP: http://208.84.155.208/ is DOWN
+IP: http://162.244.82.95/ is DOWN
+IP: http://24.166.141.110/ is DOWN
+IP: http://217.119.79.30/ is DOWN
+IP: http://159.43.20.157/ is DOWN
+IP: http://46.32.225.146/ is DOWN
+IP: http://212.110.187.28/ is DOWN
+IP: http://72.27.230.66/ is DOWN
+IP: http://91.121.89.166/ is DOWN
+IP: http://74.125.224.72/ is DOWN
+IP: http://78.47.104.6/ is DOWN
+IP: http://109.91.176.254/ is DOWN
+IP: http://208.124.62.24/ is DOWN
+IP: http://91.250.85.116/ is DOWN
+IP: http://79.171.98.146/ is DOWN
+IP: http://62.141.41.25/ is DOWN
+IP: http://82.211.221.221/ is DOWN
+IP: http://65.67.51.187/ is DOWN
+IP: http://130.225.74.243/ is DOWN
+IP: http://8.8.8.8/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.1.1/ is not public
+IP: http://10.127.71.164/ is not public
+IP: http://192.168.1.40/ is not public
+IP: http://78.46.186.182/ is UP
+IP: http://176.9.25.72/ is UP
+IP: http://192.98.104.71/ is DOWN
+IP: http://199.168.219.210/ is DOWN
+IP: http://192.30.252.153/ is UP
+IP: http://74.125.196.121/ is UP
+IP: http://192.185.35.58/ is UP
+IP: http://198.58.110.225/ is UP
+IP: http://162.0.215.215/ is UP
+IP: http://66.79.188.22/ is DOWN
+IP: http://46.4.96.132/ is DOWN
+IP: http://94.212.47.174/ is DOWN
+IP: http://77.75.105.74/ is DOWN
+IP: http://208.113.218.160/ is DOWN
+IP: http://162.243.194.71/ is DOWN
+IP: http://192.184.91.32/ is DOWN
+IP: http://173.255.131.205/ is DOWN
+IP: http://54.201.167.58/ is DOWN
+IP: http://94.124.93.216/ is DOWN
+IP: http://97.74.215.16/ is DOWN
+IP: http://200.77.168.52/ is DOWN
+IP: http://46.246.111.190/ is DOWN
+IP: http://75.155.34.15/ is DOWN
+IP: http://92.222.9.187/ is DOWN
+IP: http://85.17.155.83/ is DOWN
+IP: http://69.16.226.45/ is DOWN
+IP: http://18.0.0.1/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://127.0.0.1/ is not public
+IP: http://192.168.1.43/ is not public
+IP: http://10.10.10.1/ is not public
+IP: http://162.159.137.6/ is UP
+IP: http://217.31.82.82/ is UP
+IP: http://185.148.147.15/ is UP
+IP: http://173.255.232.233/ is UP
+IP: http://72.179.17.231/ is UP
+IP: http://176.9.216.193/ is DOWN
+IP: http://64.57.244.222/ is DOWN
+IP: http://5.39.81.216/ is DOWN
+IP: http://122.116.88.45/ is DOWN
+IP: http://67.225.195.30/ is DOWN
+IP: http://109.75.176.244/ is DOWN
+IP: http://213.187.93.252/ is DOWN
+IP: http://68.181.191.216/ is DOWN
+IP: http://68.233.250.52/ is DOWN
+IP: http://50.23.151.32/ is DOWN
+IP: http://204.27.59.116/ is DOWN
+IP: http://216.243.183.14/ is DOWN
+IP: http://46.105.96.190/ is DOWN
+IP: http://151.1.67.215/ is DOWN
+IP: http://109.90.32.164/ is DOWN
+IP: http://198.211.125.189/ is DOWN
+IP: http://174.136.100.99/ is DOWN
+IP: http://79.98.26.219/ is DOWN
+IP: http://82.168.227.93/ is DOWN
+IP: http://216.58.57.37/ is DOWN
+IP: http://188.231.177.149/ is DOWN
+IP: http://23.23.178.178/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://127.0.1.1/ is not public
+IP: http://88.198.254.198/ is UP
+IP: http://83.169.6.51/ is UP
+IP: http://46.4.70.63/ is UP
+IP: http://216.239.34.21/ is UP
+IP: http://50.28.8.113/ is UP
+IP: http://67.20.75.156/ is UP
+IP: http://173.254.28.117/ is UP
+IP: http://31.3.76.250/ is DOWN
+IP: http://165.59.111.204/ is DOWN
+IP: http://125.65.165.157/ is DOWN
+IP: http://4.2.2.4/ is DOWN
+IP: http://50.46.200.252/ is DOWN
+IP: http://82.8.140.146/ is DOWN
+IP: http://65.74.131.28/ is DOWN
+IP: http://81.136.196.62/ is DOWN
+IP: http://91.121.70.191/ is DOWN
+IP: http://162.243.131.173/ is DOWN
+IP: http://62.12.68.6/ is DOWN
+IP: http://71.56.158.94/ is DOWN
+IP: http://54.235.73.82/ is DOWN
+IP: http://184.168.221.23/ is DOWN
+IP: http://137.12.182.127/ is DOWN
+IP: http://15.27.76.73/ is DOWN
+IP: http://119.9.43.230/ is DOWN
+IP: http://74.125.225.203/ is DOWN
+IP: http://97.74.144.132/ is DOWN
+IP: http://66.212.245.170/ is DOWN
+IP: http://207.12.89.218/ is DOWN
+IP: http://78.60.77.63/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://96.127.159.90/ is DOWN
+IP: http://66.6.44.4/ is UP
+IP: http://198.211.103.66/ is UP
+IP: http://97.107.142.75/ is UP
+IP: http://173.255.218.124/ is UP
+IP: http://208.91.198.47/ is UP
+IP: http://184.94.215.88/ is UP
+IP: http://199.58.84.77/ is DOWN
+IP: http://70.90.209.122/ is DOWN
+IP: http://178.79.158.91/ is DOWN
+IP: http://188.138.10.193/ is DOWN
+IP: http://38.88.191.84/ is DOWN
+IP: http://176.58.121.140/ is DOWN
+IP: http://37.26.108.116/ is DOWN
+IP: http://108.61.63.237/ is DOWN
+IP: http://74.207.250.252/ is DOWN
+IP: http://54.252.198.253/ is DOWN
+IP: http://95.85.40.11/ is DOWN
+IP: http://68.53.91.155/ is DOWN
+IP: http://76.92.226.48/ is DOWN
+IP: http://46.21.159.236/ is DOWN
+IP: http://162.242.198.37/ is DOWN
+IP: http://98.196.156.248/ is DOWN
+IP: http://192.73.234.138/ is DOWN
+IP: http://95.154.217.180/ is DOWN
+IP: http://51.15.106.177/ is DOWN
+IP: http://74.125.225.232/ is DOWN
+IP: http://55.85.76.222/ is DOWN
+IP: http://184.73.248.245/ is DOWN
+IP: http://98.254.240.178/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://5.61.34.212/ is UP
+IP: http://185.12.14.80/ is DOWN
+IP: http://46.4.25.155/ is UP
+IP: http://91.219.237.223/ is UP
+IP: http://70.34.214.121/ is UP
+IP: http://192.99.247.234/ is UP
+IP: http://74.124.198.62/ is DOWN
+IP: http://78.46.130.153/ is DOWN
+IP: http://96.127.188.106/ is DOWN
+IP: http://81.19.70.3/ is DOWN
+IP: http://79.98.29.93/ is DOWN
+IP: http://64.57.244.220/ is DOWN
+IP: http://23.20.255.33/ is DOWN
+IP: http://54.245.80.188/ is DOWN
+IP: http://192.157.202.147/ is DOWN
+IP: http://176.110.156.50/ is DOWN
+IP: http://174.136.102.109/ is DOWN
+IP: http://195.123.213.135/ is DOWN
+IP: http://2.86.22.254/ is DOWN
+IP: http://68.174.209.161/ is DOWN
+IP: http://174.36.183.108/ is DOWN
+IP: http://162.243.70.18/ is DOWN
+IP: http://70.79.76.3/ is DOWN
+IP: http://91.197.85.98/ is DOWN
+IP: http://194.144.61.65/ is DOWN
+IP: http://50.57.72.201/ is DOWN
+IP: http://31.222.158.117/ is DOWN
+IP: http://175.41.21.13/ is DOWN
+IP: http://119.224.104.221/ is DOWN
+IP: http://5.254.137.46/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.0.3/ is not public
+IP: http://88.99.137.121/ is UP
+IP: http://77.244.242.164/ is UP
+IP: http://95.143.172.227/ is UP
+IP: http://66.49.204.17/ is UP
+IP: http://4.53.16.143/ is UP
+IP: http://50.87.150.97/ is UP
+IP: http://85.17.207.45/ is DOWN
+IP: http://217.122.54.179/ is DOWN
+IP: http://97.107.137.243/ is DOWN
+IP: http://89.88.84.31/ is DOWN
+IP: http://212.187.124.93/ is DOWN
+IP: http://5.104.106.156/ is DOWN
+IP: http://132.180.136.24/ is DOWN
+IP: http://192.89.123.231/ is DOWN
+IP: http://46.22.208.104/ is DOWN
+IP: http://5.9.85.34/ is DOWN
+IP: http://50.7.195.2/ is DOWN
+IP: http://130.225.74.253/ is DOWN
+IP: http://54.225.60.231/ is DOWN
+IP: http://24.149.32.159/ is DOWN
+IP: http://212.159.19.195/ is DOWN
+IP: http://80.175.110.33/ is DOWN
+IP: http://184.168.249.1/ is DOWN
+IP: http://42.121.16.215/ is DOWN
+IP: http://162.243.56.54/ is DOWN
+IP: http://91.208.99.12/ is DOWN
+IP: http://216.155.145.222/ is DOWN
+IP: http://198.211.126.57/ is DOWN
+IP: http://80.101.37.188/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.111.20/ is not public
+IP: http://1.1.1.1/ is UP
+IP: http://176.9.54.75/ is UP
+IP: http://192.185.225.13/ is UP
+IP: http://89.31.100.161/ is DOWN
+IP: http://80.101.226.191/ is DOWN
+IP: http://50.159.66.8/ is DOWN
+IP: http://213.146.191.170/ is DOWN
+IP: http://173.10.71.14/ is DOWN
+IP: http://198.7.229.11/ is DOWN
+IP: http://130.225.74.254/ is DOWN
+IP: http://198.74.61.19/ is DOWN
+IP: http://66.172.27.84/ is DOWN
+IP: http://64.28.35.62/ is DOWN
+IP: http://1.2.3.4/ is DOWN
+IP: http://173.255.251.182/ is DOWN
+IP: http://107.20.217.27/ is DOWN
+IP: http://98.160.219.194/ is DOWN
+IP: http://51.255.203.108/ is DOWN
+IP: http://74.96.167.197/ is DOWN
+IP: http://66.165.234.62/ is DOWN
+IP: http://217.84.52.61/ is DOWN
+IP: http://37.187.243.109/ is DOWN
+IP: http://202.175.83.78/ is DOWN
+IP: http://94.124.94.40/ is DOWN
+IP: http://81.90.69.131/ is DOWN
+IP: http://107.170.105.72/ is DOWN
+IP: http://185.27.174.71/ is DOWN
+IP: http://81.243.151.78/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+First query
+99139 items, next query: d/obeid
+99394 items, next query: d/comanic
+99680 items, next query: d/indentor
+99702 items, next query: d/order-now
+99712 items, next query: d/virgocoins
+99750 items, next query: d/smallmouthed
+84096 items, next query: d/gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle
+Syncing db
+First query
+99139 items, next query: d/obeid
+99394 items, next query: d/comanic
+99680 items, next query: d/indentor
+99702 items, next query: d/order-now
+99712 items, next query: d/virgocoins
+99750 items, next query: d/smallmouthed
+84096 items, next query: d/gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle
+Syncing db
+IP: http://10.10.10.10/ is not public
+IP: http://136.243.70.96/ is UP
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://68.183.220.207/ is UP
+IP: http://148.251.189.173/ is UP
+IP: http://79.98.25.1/ is UP
+IP: http://24.55.109.138/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://75.83.163.162/ is DOWN
+IP: http://89.42.11.18/ is DOWN
+IP: http://95.65.35.43/ is DOWN
+IP: http://198.74.118.76/ is DOWN
+IP: http://182.50.143.10/ is DOWN
+IP: http://146.185.143.123/ is DOWN
+IP: http://83.150.84.216/ is DOWN
+IP: http://96.250.211.77/ is DOWN
+IP: http://209.190.18.220/ is DOWN
+IP: http://98.207.155.220/ is DOWN
+IP: http://75.111.54.247/ is DOWN
+IP: http://87.106.94.14/ is DOWN
+IP: http://64.111.122.211/ is DOWN
+IP: http://91.214.129.34/ is DOWN
+IP: http://173.13.173.51/ is DOWN
+IP: http://54.244.21.227/ is DOWN
+IP: http://95.105.105.155/ is DOWN
+IP: http://198.50.235.171/ is DOWN
+IP: http://69.65.34.10/ is DOWN
+IP: http://67.222.130.14/ is DOWN
+IP: http://66.175.209.96/ is DOWN
+IP: http://71.231.39.181/ is DOWN
+IP: http://80.93.62.127/ is DOWN
+IP: http://88.191.177.174/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://194.116.215.67/ is DOWN
+IP: http://95.85.56.251/ is UP
+IP: http://50.56.235.139/ is UP
+IP: http://64.90.33.200/ is UP
+IP: http://103.9.168.50/ is UP
+IP: http://92.243.7.197/ is DOWN
+IP: http://188.40.15.5/ is DOWN
+IP: http://107.155.190.118/ is DOWN
+IP: http://92.63.173.211/ is DOWN
+IP: http://174.129.6.100/ is DOWN
+IP: http://69.90.47.167/ is DOWN
+IP: http://173.228.7.244/ is DOWN
+IP: http://81.83.16.111/ is DOWN
+IP: http://173.201.98.39/ is DOWN
+IP: http://178.63.16.21/ is DOWN
+IP: http://80.108.45.204/ is DOWN
+IP: http://184.168.152.32/ is DOWN
+IP: http://37.187.42.34/ is DOWN
+IP: http://85.10.225.162/ is DOWN
+IP: http://72.2.112.246/ is DOWN
+IP: http://199.117.122.68/ is DOWN
+IP: http://131.251.168.81/ is DOWN
+IP: http://78.47.86.43/ is DOWN
+IP: http://136.250.188.182/ is DOWN
+IP: http://174.136.102.110/ is DOWN
+IP: http://66.27.52.246/ is DOWN
+IP: http://5.39.84.105/ is DOWN
+IP: http://216.224.176.55/ is DOWN
+IP: http://4.30.111.131/ is DOWN
+IP: http://81.56.110.168/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://10.0.0.7/ is not public
+IP: http://130.83.218.60/ is DOWN
+IP: http://66.175.215.51/ is DOWN
+IP: http://162.244.82.96/ is UP
+IP: http://96.30.57.11/ is UP
+IP: http://72.14.191.28/ is UP
+IP: http://114.34.70.3/ is DOWN
+IP: http://54.200.150.228/ is UP
+IP: http://50.57.77.63/ is UP
+IP: http://95.211.228.147/ is DOWN
+IP: http://162.243.53.67/ is DOWN
+IP: http://81.167.4.10/ is DOWN
+IP: http://24.73.254.245/ is DOWN
+IP: http://46.149.28.113/ is DOWN
+IP: http://184.168.16.1/ is DOWN
+IP: http://82.111.90.210/ is DOWN
+IP: http://209.9.227.56/ is DOWN
+IP: http://174.143.170.167/ is DOWN
+IP: http://24.234.152.235/ is DOWN
+IP: http://66.248.204.16/ is DOWN
+IP: http://65.92.198.92/ is DOWN
+IP: http://199.127.226.132/ is DOWN
+IP: http://81.201.115.141/ is DOWN
+IP: http://212.100.247.132/ is DOWN
+IP: http://64.34.219.38/ is DOWN
+IP: http://198.27.115.229/ is DOWN
+IP: http://168.144.82.217/ is DOWN
+IP: http://67.241.55.206/ is DOWN
+IP: http://198.245.51.42/ is DOWN
+IP: http://178.33.154.85/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.178.1/ is not public
+IP: http://104.248.200.247/ is UP
+IP: http://31.220.24.253/ is UP
+IP: http://66.228.58.49/ is DOWN
+IP: http://104.200.30.144/ is UP
+IP: http://173.239.33.84/ is UP
+IP: http://198.23.231.103/ is UP
+IP: http://184.168.122.82/ is DOWN
+IP: http://192.241.222.65/ is UP
+IP: http://185.19.248.90/ is DOWN
+IP: http://78.167.1.8/ is DOWN
+IP: http://80.86.83.121/ is DOWN
+IP: http://173.73.90.24/ is DOWN
+IP: http://216.34.181.96/ is DOWN
+IP: http://198.199.97.91/ is DOWN
+IP: http://78.47.28.26/ is DOWN
+IP: http://111.90.151.114/ is DOWN
+IP: http://84.22.26.99/ is DOWN
+IP: http://64.34.181.157/ is DOWN
+IP: http://69.50.225.155/ is DOWN
+IP: http://54.225.156.17/ is DOWN
+IP: http://176.58.111.244/ is DOWN
+IP: http://67.193.126.53/ is DOWN
+IP: http://147.251.209.29/ is DOWN
+IP: http://96.126.100.72/ is DOWN
+IP: http://213.114.125.211/ is DOWN
+IP: http://173.193.26.147/ is DOWN
+IP: http://85.229.40.145/ is DOWN
+IP: http://87.229.86.26/ is DOWN
+IP: http://185.234.217.250/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://199.34.228.50/ is UP
+Error checking 91.121.62.12: error sending request for url (http://91.121.62.12/): connection closed before message completed
+IP: http://91.121.62.12/ is DOWN
+IP: http://88.80.185.175/ is DOWN
+IP: http://62.143.88.147/ is DOWN
+IP: http://96.126.114.151/ is DOWN
+IP: http://192.3.115.200/ is DOWN
+IP: http://109.238.34.162/ is DOWN
+IP: http://85.17.216.117/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://149.126.77.253/ is UP
+IP: http://64.14.68.156/ is UP
+IP: http://66.96.161.192/ is UP
+IP: http://208.94.116.10/ is UP
+IP: http://198.61.177.197/ is UP
+Error checking 157.230.194.58: error sending request for url (http://157.230.194.58/): connection closed before message completed
+IP: http://157.230.194.58/ is DOWN
+IP: http://95.211.41.75/ is DOWN
+IP: http://188.117.32.243/ is DOWN
+IP: http://85.159.233.238/ is DOWN
+IP: http://162.243.150.165/ is DOWN
+IP: http://109.67.136.187/ is DOWN
+IP: http://108.66.134.195/ is DOWN
+IP: http://46.4.46.73/ is DOWN
+IP: http://213.171.198.110/ is DOWN
+IP: http://192.134.5.8/ is DOWN
+IP: http://196.1.61.226/ is DOWN
+IP: http://91.151.181.162/ is DOWN
+IP: http://140.113.246.196/ is DOWN
+IP: http://62.189.37.62/ is DOWN
+IP: http://108.3.146.29/ is DOWN
+IP: http://84.200.122.221/ is DOWN
+IP: http://131.251.168.99/ is DOWN
+IP: http://76.219.106.128/ is DOWN
+IP: http://50.172.84.107/ is DOWN
+IP: http://79.99.135.181/ is DOWN
+IP: http://50.63.196.50/ is DOWN
+IP: http://84.85.128.248/ is DOWN
+IP: http://54.225.200.50/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://178.33.42.216/ is UP
+IP: http://192.166.219.22/ is UP
+IP: http://67.205.32.66/ is UP
+IP: http://198.199.84.114/ is UP
+IP: http://50.116.3.249/ is UP
+IP: http://64.85.162.227/ is DOWN
+IP: http://197.221.2.183/ is DOWN
+IP: http://107.150.34.218/ is DOWN
+IP: http://77.107.101.162/ is DOWN
+IP: http://94.228.142.105/ is DOWN
+IP: http://130.206.83.99/ is DOWN
+IP: http://82.221.105.125/ is DOWN
+IP: http://24.165.177.193/ is DOWN
+IP: http://109.228.11.33/ is DOWN
+IP: http://213.171.198.109/ is DOWN
+IP: http://184.154.115.250/ is DOWN
+IP: http://67.205.7.22/ is DOWN
+IP: http://192.241.227.144/ is DOWN
+IP: http://54.187.171.163/ is DOWN
+IP: http://134.2.2.29/ is DOWN
+IP: http://24.22.222.18/ is DOWN
+IP: http://199.102.104.163/ is DOWN
+IP: http://69.132.105.6/ is DOWN
+IP: http://75.127.14.216/ is DOWN
+IP: http://67.190.148.149/ is DOWN
+IP: http://216.241.32.24/ is DOWN
+IP: http://192.241.213.154/ is DOWN
+IP: http://98.113.12.189/ is DOWN
+IP: http://192.184.82.151/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://81.169.145.64/ is UP
+IP: http://83.169.4.158/ is UP
+IP: http://62.48.3.143/ is UP
+IP: http://162.243.56.5/ is UP
+IP: http://107.20.252.197/ is UP
+IP: http://91.222.8.101/ is DOWN
+IP: http://50.16.212.166/ is DOWN
+IP: http://67.205.62.251/ is DOWN
+IP: http://66.23.238.90/ is DOWN
+IP: http://173.194.41.99/ is DOWN
+IP: http://74.121.192.212/ is DOWN
+IP: http://64.57.244.219/ is DOWN
+IP: http://50.28.20.5/ is DOWN
+IP: http://94.76.254.5/ is DOWN
+IP: http://64.34.181.158/ is DOWN
+IP: http://24.73.154.245/ is DOWN
+IP: http://144.76.7.83/ is DOWN
+IP: http://41.178.124.167/ is DOWN
+IP: http://96.127.162.58/ is DOWN
+IP: http://69.43.163.181/ is DOWN
+IP: http://59.167.122.117/ is DOWN
+IP: http://199.27.78.133/ is DOWN
+IP: http://216.242.215.15/ is DOWN
+IP: http://69.16.172.158/ is DOWN
+IP: http://5.39.95.17/ is DOWN
+IP: http://192.241.229.106/ is DOWN
+IP: http://24.21.141.203/ is DOWN
+IP: http://97.74.215.19/ is DOWN
+IP: http://71.3.17.85/ is DOWN
+IP: http://37.206.132.88/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://108.160.166.62/ is DOWN
+IP: http://87.106.129.143/ is DOWN
+IP: http://31.3.227.105/ is UP
+IP: http://46.28.110.250/ is UP
+IP: http://5.45.103.155/ is UP
+IP: http://91.198.106.9/ is UP
+IP: http://31.170.160.107/ is UP
+IP: http://50.28.58.39/ is UP
+IP: http://72.14.189.138/ is UP
+IP: http://64.64.181.157/ is UP
+IP: http://99.192.226.225/ is DOWN
+IP: http://69.20.153.106/ is DOWN
+IP: http://137.135.59.87/ is DOWN
+IP: http://94.242.255.57/ is DOWN
+IP: http://65.39.148.219/ is DOWN
+IP: http://5.35.253.206/ is DOWN
+IP: http://106.187.47.17/ is DOWN
+IP: http://81.89.108.66/ is DOWN
+IP: http://95.85.5.26/ is DOWN
+IP: http://74.125.39.104/ is DOWN
+IP: http://69.16.226.114/ is DOWN
+IP: http://82.199.65.61/ is DOWN
+IP: http://62.75.221.135/ is DOWN
+IP: http://109.235.51.82/ is DOWN
+IP: http://106.172.229.51/ is DOWN
+IP: http://62.76.191.55/ is DOWN
+IP: http://71.1.45.3/ is DOWN
+IP: http://72.29.68.31/ is DOWN
+IP: http://85.234.133.191/ is DOWN
+IP: http://96.127.133.42/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.1.101/ is not public
+IP: http://127.0.0.2/ is not public
+IP: http://88.198.50.88/ is UP
+IP: http://65.39.205.54/ is UP
+IP: http://31.170.162.74/ is UP
+IP: http://72.14.176.151/ is UP
+IP: http://184.105.182.100/ is UP
+IP: http://87.98.245.54/ is DOWN
+IP: http://74.125.239.142/ is DOWN
+IP: http://223.255.151.138/ is DOWN
+IP: http://208.69.127.59/ is DOWN
+IP: http://98.101.247.254/ is DOWN
+IP: http://5.9.107.79/ is DOWN
+IP: http://216.38.28.31/ is DOWN
+IP: http://70.176.29.148/ is DOWN
+IP: http://108.61.170.200/ is DOWN
+IP: http://164.15.127.20/ is DOWN
+IP: http://128.199.241.132/ is DOWN
+IP: http://213.157.94.92/ is DOWN
+IP: http://54.247.74.16/ is DOWN
+IP: http://54.196.123.196/ is DOWN
+IP: http://198.52.126.162/ is DOWN
+IP: http://109.228.16.166/ is DOWN
+IP: http://78.63.237.151/ is DOWN
+IP: http://54.213.148.20/ is DOWN
+IP: http://95.138.187.100/ is DOWN
+IP: http://94.23.188.92/ is DOWN
+IP: http://46.19.36.117/ is DOWN
+IP: http://94.229.76.35/ is DOWN
+IP: http://23.21.182.158/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://38.180.228.53/ is UP
+IP: http://162.159.249.65/ is UP
+IP: http://95.143.172.53/ is UP
+IP: http://94.23.252.190/ is UP
+IP: http://192.185.40.199/ is UP
+IP: http://107.152.38.155/ is UP
+IP: http://80.98.159.161/ is DOWN
+IP: http://69.89.27.207/ is DOWN
+IP: http://164.138.28.170/ is DOWN
+IP: http://87.106.29.250/ is DOWN
+IP: http://162.243.73.168/ is DOWN
+IP: http://83.167.252.116/ is DOWN
+IP: http://173.192.120.180/ is DOWN
+IP: http://94.71.158.121/ is DOWN
+IP: http://64.142.56.172/ is DOWN
+IP: http://162.251.81.36/ is DOWN
+IP: http://81.169.249.52/ is DOWN
+IP: http://36.55.238.28/ is DOWN
+IP: http://54.213.6.154/ is DOWN
+IP: http://24.166.109.11/ is DOWN
+IP: http://162.218.208.166/ is DOWN
+IP: http://1.2.3.5/ is DOWN
+IP: http://207.38.168.148/ is DOWN
+IP: http://46.17.96.34/ is DOWN
+IP: http://192.241.185.220/ is DOWN
+IP: http://27.33.60.98/ is DOWN
+IP: http://69.85.92.119/ is DOWN
+IP: http://50.31.24.44/ is DOWN
+IP: http://85.159.41.95/ is DOWN
+IP: http://180.157.5.17/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://0.0.0.0/ is not public
+IP: http://10.0.0.1/ is not public
+IP: http://194.120.116.196/ is DOWN
+IP: http://83.169.22.26/ is UP
+IP: http://80.211.208.129/ is UP
+IP: http://192.64.115.84/ is UP
+IP: http://173.254.28.61/ is UP
+IP: http://185.4.135.71/ is UP
+IP: http://213.206.120.221/ is DOWN
+IP: http://76.72.175.169/ is DOWN
+IP: http://62.89.167.200/ is DOWN
+IP: http://176.9.79.229/ is DOWN
+IP: http://95.88.145.34/ is DOWN
+IP: http://212.232.51.96/ is DOWN
+IP: http://82.211.205.202/ is DOWN
+IP: http://173.194.43.119/ is DOWN
+IP: http://54.212.254.214/ is DOWN
+IP: http://98.232.93.72/ is DOWN
+IP: http://46.151.84.16/ is DOWN
+IP: http://75.182.95.45/ is DOWN
+IP: http://67.23.25.60/ is DOWN
+IP: http://116.240.169.115/ is DOWN
+IP: http://24.36.182.99/ is DOWN
+IP: http://184.105.204.187/ is DOWN
+IP: http://108.167.43.8/ is DOWN
+IP: http://213.251.184.77/ is DOWN
+IP: http://203.123.103.166/ is DOWN
+IP: http://46.105.17.248/ is DOWN
+IP: http://190.115.24.114/ is DOWN
+IP: http://173.77.182.230/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://82.66.70.225/ is UP
+IP: http://2.35.5.112/ is UP
+IP: http://54.235.215.150/ is DOWN
+IP: http://184.73.251.152/ is DOWN
+IP: http://67.227.240.201/ is DOWN
+IP: http://192.155.88.40/ is UP
+IP: http://66.228.36.80/ is UP
+IP: http://65.254.248.204/ is UP
+IP: http://54.235.205.195/ is UP
+IP: http://95.211.30.122/ is DOWN
+IP: http://24.6.74.4/ is DOWN
+IP: http://72.47.203.176/ is DOWN
+IP: http://212.48.8.140/ is DOWN
+IP: http://216.51.232.177/ is DOWN
+IP: http://192.0.131.79/ is DOWN
+IP: http://92.222.26.81/ is DOWN
+IP: http://162.243.93.40/ is DOWN
+IP: http://195.78.50.3/ is DOWN
+IP: http://208.186.102.190/ is DOWN
+IP: http://60.28.135.8/ is DOWN
+IP: http://190.224.159.252/ is DOWN
+IP: http://74.217.87.169/ is DOWN
+IP: http://69.67.54.200/ is DOWN
+IP: http://74.201.150.103/ is DOWN
+IP: http://213.171.197.102/ is DOWN
+IP: http://77.175.119.133/ is DOWN
+IP: http://142.165.167.196/ is DOWN
+IP: http://212.43.240.101/ is DOWN
+IP: http://193.91.69.195/ is DOWN
+IP: http://211.154.148.12/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.1.1/ is not public
+IP: http://192.98.104.71/ is DOWN
+IP: http://173.255.227.13/ is DOWN
+IP: http://69.165.169.164/ is DOWN
+IP: http://93.158.134.11/ is UP
+IP: http://192.30.252.153/ is UP
+IP: http://74.125.196.121/ is UP
+IP: http://198.58.110.225/ is UP
+IP: http://184.74.181.118/ is DOWN
+IP: http://98.199.191.238/ is DOWN
+IP: http://46.32.225.146/ is DOWN
+IP: http://130.225.74.243/ is DOWN
+IP: http://109.91.176.254/ is DOWN
+IP: http://208.124.62.24/ is DOWN
+IP: http://72.27.230.66/ is DOWN
+IP: http://24.166.141.110/ is DOWN
+IP: http://212.110.187.28/ is DOWN
+IP: http://162.244.82.95/ is DOWN
+IP: http://208.84.155.208/ is DOWN
+IP: http://91.250.85.116/ is DOWN
+IP: http://82.211.221.221/ is DOWN
+IP: http://8.8.8.8/ is DOWN
+IP: http://217.119.79.30/ is DOWN
+IP: http://62.141.41.25/ is DOWN
+IP: http://159.43.20.157/ is DOWN
+IP: http://74.125.224.72/ is DOWN
+IP: http://78.47.104.6/ is DOWN
+IP: http://79.171.98.146/ is DOWN
+IP: http://65.67.51.187/ is DOWN
+IP: http://91.121.89.166/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://127.0.0.1/ is not public
+IP: http://10.127.71.164/ is not public
+IP: http://192.168.1.40/ is not public
+First query
+IP: http://176.9.25.72/ is UP
+IP: http://162.159.137.6/ is UP
+IP: http://78.46.186.182/ is UP
+IP: http://185.148.147.15/ is UP
+IP: http://173.255.232.233/ is UP
+IP: http://192.185.35.58/ is UP
+IP: http://72.179.17.231/ is UP
+IP: http://162.0.215.215/ is UP
+99139 items, next query: d/obeid
+IP: http://199.168.219.210/ is DOWN
+IP: http://94.124.93.216/ is DOWN
+IP: http://94.212.47.174/ is DOWN
+IP: http://46.4.96.132/ is DOWN
+IP: http://97.74.215.16/ is DOWN
+IP: http://200.77.168.52/ is DOWN
+IP: http://66.79.188.22/ is DOWN
+IP: http://69.16.226.45/ is DOWN
+IP: http://162.243.194.71/ is DOWN
+IP: http://75.155.34.15/ is DOWN
+IP: http://85.17.155.83/ is DOWN
+IP: http://54.201.167.58/ is DOWN
+IP: http://77.75.105.74/ is DOWN
+IP: http://46.246.111.190/ is DOWN
+IP: http://173.255.131.205/ is DOWN
+IP: http://18.0.0.1/ is DOWN
+IP: http://192.184.91.32/ is DOWN
+IP: http://208.113.218.160/ is DOWN
+IP: http://92.222.9.187/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://127.0.1.1/ is not public
+IP: http://192.168.1.43/ is not public
+IP: http://10.10.10.1/ is not public
+IP: http://83.169.6.51/ is UP
+IP: http://217.31.82.82/ is UP
+IP: http://216.239.34.21/ is UP
+IP: http://50.28.8.113/ is UP
+IP: http://173.254.28.117/ is UP
+99394 items, next query: d/comanic
+IP: http://50.23.151.32/ is DOWN
+IP: http://5.39.81.216/ is DOWN
+IP: http://82.168.227.93/ is DOWN
+IP: http://151.1.67.215/ is DOWN
+IP: http://188.231.177.149/ is DOWN
+IP: http://109.75.176.244/ is DOWN
+IP: http://68.233.250.52/ is DOWN
+IP: http://23.23.178.178/ is DOWN
+IP: http://204.27.59.116/ is DOWN
+IP: http://64.57.244.222/ is DOWN
+IP: http://198.211.125.189/ is DOWN
+IP: http://68.181.191.216/ is DOWN
+IP: http://213.187.93.252/ is DOWN
+IP: http://216.58.57.37/ is DOWN
+IP: http://109.90.32.164/ is DOWN
+IP: http://216.243.183.14/ is DOWN
+IP: http://174.136.100.99/ is DOWN
+IP: http://122.116.88.45/ is DOWN
+IP: http://46.105.96.190/ is DOWN
+IP: http://176.9.216.193/ is DOWN
+IP: http://79.98.26.219/ is DOWN
+IP: http://67.225.195.30/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://88.198.254.198/ is UP
+IP: http://46.4.70.63/ is UP
+IP: http://66.6.44.4/ is UP
+IP: http://198.211.103.66/ is UP
+IP: http://173.255.218.124/ is UP
+IP: http://67.20.75.156/ is UP
+IP: http://184.94.215.88/ is UP
+IP: http://208.91.198.47/ is UP
+99680 items, next query: d/indentor
+IP: http://31.3.76.250/ is DOWN
+99702 items, next query: d/order-now
+IP: http://125.65.165.157/ is DOWN
+IP: http://66.212.245.170/ is DOWN
+IP: http://54.235.73.82/ is DOWN
+IP: http://74.125.225.203/ is DOWN
+IP: http://207.12.89.218/ is DOWN
+IP: http://165.59.111.204/ is DOWN
+IP: http://78.60.77.63/ is DOWN
+IP: http://65.74.131.28/ is DOWN
+IP: http://4.2.2.4/ is DOWN
+IP: http://81.136.196.62/ is DOWN
+IP: http://15.27.76.73/ is DOWN
+IP: http://71.56.158.94/ is DOWN
+IP: http://97.74.144.132/ is DOWN
+IP: http://50.46.200.252/ is DOWN
+IP: http://62.12.68.6/ is DOWN
+IP: http://184.168.221.23/ is DOWN
+IP: http://82.8.140.146/ is DOWN
+IP: http://137.12.182.127/ is DOWN
+IP: http://91.121.70.191/ is DOWN
+IP: http://119.9.43.230/ is DOWN
+IP: http://162.243.131.173/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://5.61.34.212/ is UP
+IP: http://185.12.14.80/ is DOWN
+IP: http://46.4.25.155/ is UP
+IP: http://70.34.214.121/ is UP
+IP: http://96.127.159.90/ is DOWN
+IP: http://97.107.142.75/ is UP
+IP: http://192.99.247.234/ is UP
+IP: http://199.58.84.77/ is DOWN
+IP: http://70.90.209.122/ is DOWN
+99712 items, next query: d/virgocoins
+99750 items, next query: d/smallmouthed
+IP: http://51.15.106.177/ is DOWN
+IP: http://37.26.108.116/ is DOWN
+IP: http://74.207.250.252/ is DOWN
+IP: http://46.21.159.236/ is DOWN
+IP: http://108.61.63.237/ is DOWN
+IP: http://162.242.198.37/ is DOWN
+IP: http://98.196.156.248/ is DOWN
+IP: http://178.79.158.91/ is DOWN
+IP: http://188.138.10.193/ is DOWN
+IP: http://192.73.234.138/ is DOWN
+IP: http://68.53.91.155/ is DOWN
+IP: http://98.254.240.178/ is DOWN
+IP: http://54.252.198.253/ is DOWN
+IP: http://76.92.226.48/ is DOWN
+IP: http://95.85.40.11/ is DOWN
+IP: http://176.58.121.140/ is DOWN
+IP: http://74.125.225.232/ is DOWN
+IP: http://38.88.191.84/ is DOWN
+IP: http://55.85.76.222/ is DOWN
+IP: http://95.154.217.180/ is DOWN
+IP: http://184.73.248.245/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.0.3/ is not public
+IP: http://88.99.137.121/ is UP
+IP: http://95.143.172.227/ is UP
+IP: http://91.219.237.223/ is UP
+IP: http://4.53.16.143/ is UP
+IP: http://50.87.150.97/ is UP
+IP: http://74.124.198.62/ is DOWN
+84096 items, next query: d/gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle
+Syncing db
+IP: http://174.136.102.109/ is DOWN
+IP: http://23.20.255.33/ is DOWN
+IP: http://176.110.156.50/ is DOWN
+IP: http://195.123.213.135/ is DOWN
+IP: http://5.254.137.46/ is DOWN
+IP: http://192.157.202.147/ is DOWN
+IP: http://50.57.72.201/ is DOWN
+IP: http://81.19.70.3/ is DOWN
+IP: http://91.197.85.98/ is DOWN
+IP: http://175.41.21.13/ is DOWN
+IP: http://79.98.29.93/ is DOWN
+IP: http://31.222.158.117/ is DOWN
+IP: http://2.86.22.254/ is DOWN
+IP: http://194.144.61.65/ is DOWN
+IP: http://68.174.209.161/ is DOWN
+IP: http://54.245.80.188/ is DOWN
+IP: http://70.79.76.3/ is DOWN
+IP: http://162.243.70.18/ is DOWN
+IP: http://174.36.183.108/ is DOWN
+IP: http://119.224.104.221/ is DOWN
+IP: http://78.46.130.153/ is DOWN
+IP: http://96.127.188.106/ is DOWN
+IP: http://64.57.244.220/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.111.20/ is not public
+IP: http://1.1.1.1/ is UP
+IP: http://77.244.242.164/ is UP
+IP: http://176.9.54.75/ is UP
+IP: http://66.49.204.17/ is UP
+IP: http://192.185.225.13/ is UP
+IP: http://85.17.207.45/ is DOWN
+IP: http://54.225.60.231/ is DOWN
+IP: http://217.122.54.179/ is DOWN
+IP: http://46.22.208.104/ is DOWN
+IP: http://80.101.37.188/ is DOWN
+IP: http://212.159.19.195/ is DOWN
+IP: http://132.180.136.24/ is DOWN
+IP: http://130.225.74.253/ is DOWN
+IP: http://216.155.145.222/ is DOWN
+IP: http://89.88.84.31/ is DOWN
+IP: http://198.211.126.57/ is DOWN
+IP: http://184.168.249.1/ is DOWN
+IP: http://97.107.137.243/ is DOWN
+IP: http://50.7.195.2/ is DOWN
+IP: http://192.89.123.231/ is DOWN
+IP: http://80.175.110.33/ is DOWN
+IP: http://42.121.16.215/ is DOWN
+IP: http://5.9.85.34/ is DOWN
+IP: http://5.104.106.156/ is DOWN
+IP: http://91.208.99.12/ is DOWN
+IP: http://212.187.124.93/ is DOWN
+IP: http://162.243.56.54/ is DOWN
+IP: http://24.149.32.159/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://89.31.100.161/ is DOWN
+IP: http://50.159.66.8/ is DOWN
+IP: http://1.2.3.4/ is DOWN
+IP: http://173.10.71.14/ is DOWN
+IP: http://74.96.167.197/ is DOWN
+IP: http://202.175.83.78/ is DOWN
+IP: http://51.255.203.108/ is DOWN
+IP: http://217.84.52.61/ is DOWN
+IP: http://107.20.217.27/ is DOWN
+IP: http://198.74.61.19/ is DOWN
+IP: http://94.124.94.40/ is DOWN
+IP: http://81.90.69.131/ is DOWN
+IP: http://173.255.251.182/ is DOWN
+IP: http://213.146.191.170/ is DOWN
+IP: http://66.165.234.62/ is DOWN
+IP: http://80.101.226.191/ is DOWN
+IP: http://107.170.105.72/ is DOWN
+IP: http://130.225.74.254/ is DOWN
+IP: http://64.28.35.62/ is DOWN
+IP: http://66.172.27.84/ is DOWN
+IP: http://81.243.151.78/ is DOWN
+IP: http://98.160.219.194/ is DOWN
+IP: http://198.7.229.11/ is DOWN
+IP: http://37.187.243.109/ is DOWN
+IP: http://185.27.174.71/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+First query
+99139 items, next query: d/obeid
+99394 items, next query: d/comanic
+99680 items, next query: d/indentor
+99702 items, next query: d/order-now
+99712 items, next query: d/virgocoins
+99750 items, next query: d/smallmouthed
+84096 items, next query: d/gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle
+Syncing db
+First query
+99139 items, next query: d/obeid
+99394 items, next query: d/comanic
+99680 items, next query: d/indentor
+99702 items, next query: d/order-now
+99712 items, next query: d/virgocoins
+99750 items, next query: d/smallmouthed
+84096 items, next query: d/gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle
+Syncing db
+IP: http://10.10.10.10/ is not public
+IP: http://136.243.70.96/ is UP
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://68.183.220.207/ is UP
+IP: http://148.251.189.173/ is UP
+IP: http://79.98.25.1/ is UP
+IP: http://24.55.109.138/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://194.116.215.67/ is DOWN
+IP: http://95.85.56.251/ is UP
+IP: http://50.56.235.139/ is UP
+IP: http://64.90.33.200/ is UP
+IP: http://103.9.168.50/ is UP
+IP: http://198.50.235.171/ is DOWN
+IP: http://146.185.143.123/ is DOWN
+IP: http://173.13.173.51/ is DOWN
+IP: http://71.231.39.181/ is DOWN
+IP: http://64.111.122.211/ is DOWN
+IP: http://182.50.143.10/ is DOWN
+IP: http://87.106.94.14/ is DOWN
+IP: http://96.250.211.77/ is DOWN
+IP: http://89.42.11.18/ is DOWN
+IP: http://209.190.18.220/ is DOWN
+IP: http://88.191.177.174/ is DOWN
+IP: http://91.214.129.34/ is DOWN
+IP: http://75.111.54.247/ is DOWN
+IP: http://54.244.21.227/ is DOWN
+IP: http://67.222.130.14/ is DOWN
+IP: http://80.93.62.127/ is DOWN
+IP: http://75.83.163.162/ is DOWN
+IP: http://69.65.34.10/ is DOWN
+IP: http://198.74.118.76/ is DOWN
+IP: http://98.207.155.220/ is DOWN
+IP: http://66.175.209.96/ is DOWN
+IP: http://95.105.105.155/ is DOWN
+IP: http://83.150.84.216/ is DOWN
+IP: http://95.65.35.43/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://10.0.0.7/ is not public
+IP: http://130.83.218.60/ is DOWN
+IP: http://96.30.57.11/ is UP
+IP: http://72.14.191.28/ is UP
+IP: http://114.34.70.3/ is DOWN
+IP: http://92.243.7.197/ is DOWN
+IP: http://188.40.15.5/ is DOWN
+IP: http://80.108.45.204/ is DOWN
+IP: http://178.63.16.21/ is DOWN
+IP: http://136.250.188.182/ is DOWN
+IP: http://173.201.98.39/ is DOWN
+IP: http://85.10.225.162/ is DOWN
+IP: http://37.187.42.34/ is DOWN
+IP: http://78.47.86.43/ is DOWN
+IP: http://173.228.7.244/ is DOWN
+IP: http://131.251.168.81/ is DOWN
+IP: http://5.39.84.105/ is DOWN
+IP: http://199.117.122.68/ is DOWN
+IP: http://69.90.47.167/ is DOWN
+IP: http://81.83.16.111/ is DOWN
+IP: http://174.136.102.110/ is DOWN
+IP: http://107.155.190.118/ is DOWN
+IP: http://184.168.152.32/ is DOWN
+IP: http://174.129.6.100/ is DOWN
+IP: http://72.2.112.246/ is DOWN
+IP: http://66.27.52.246/ is DOWN
+IP: http://92.63.173.211/ is DOWN
+IP: http://216.224.176.55/ is DOWN
+IP: http://4.30.111.131/ is DOWN
+IP: http://81.56.110.168/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.178.1/ is not public
+IP: http://31.220.24.253/ is UP
+IP: http://66.175.215.51/ is DOWN
+IP: http://162.244.82.96/ is UP
+IP: http://173.239.33.84/ is UP
+IP: http://198.23.231.103/ is UP
+IP: http://192.241.222.65/ is UP
+IP: http://54.200.150.228/ is UP
+IP: http://50.57.77.63/ is UP
+IP: http://67.241.55.206/ is DOWN
+IP: http://95.211.228.147/ is DOWN
+IP: http://65.92.198.92/ is DOWN
+IP: http://184.168.16.1/ is DOWN
+IP: http://178.33.154.85/ is DOWN
+IP: http://81.201.115.141/ is DOWN
+IP: http://199.127.226.132/ is DOWN
+IP: http://24.73.254.245/ is DOWN
+IP: http://46.149.28.113/ is DOWN
+IP: http://64.34.219.38/ is DOWN
+IP: http://198.245.51.42/ is DOWN
+IP: http://198.27.115.229/ is DOWN
+IP: http://168.144.82.217/ is DOWN
+IP: http://174.143.170.167/ is DOWN
+IP: http://209.9.227.56/ is DOWN
+IP: http://66.248.204.16/ is DOWN
+IP: http://162.243.53.67/ is DOWN
+IP: http://24.234.152.235/ is DOWN
+IP: http://82.111.90.210/ is DOWN
+IP: http://212.100.247.132/ is DOWN
+IP: http://81.167.4.10/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://88.80.185.175/ is DOWN
+Error checking 91.121.62.12: error sending request for url (http://91.121.62.12/): connection closed before message completed
+IP: http://91.121.62.12/ is DOWN
+IP: http://62.143.88.147/ is DOWN
+IP: http://104.248.200.247/ is UP
+IP: http://66.228.58.49/ is DOWN
+IP: http://192.3.115.200/ is DOWN
+IP: http://96.126.114.151/ is DOWN
+IP: http://104.200.30.144/ is UP
+IP: http://184.168.122.82/ is DOWN
+IP: http://185.19.248.90/ is DOWN
+IP: http://78.167.1.8/ is DOWN
+IP: http://78.47.28.26/ is DOWN
+IP: http://111.90.151.114/ is DOWN
+IP: http://84.22.26.99/ is DOWN
+IP: http://54.225.156.17/ is DOWN
+IP: http://96.126.100.72/ is DOWN
+IP: http://213.114.125.211/ is DOWN
+IP: http://87.229.86.26/ is DOWN
+IP: http://64.34.181.157/ is DOWN
+IP: http://198.199.97.91/ is DOWN
+IP: http://67.193.126.53/ is DOWN
+IP: http://147.251.209.29/ is DOWN
+IP: http://85.229.40.145/ is DOWN
+IP: http://173.193.26.147/ is DOWN
+IP: http://173.73.90.24/ is DOWN
+IP: http://216.34.181.96/ is DOWN
+IP: http://69.50.225.155/ is DOWN
+IP: http://185.234.217.250/ is DOWN
+IP: http://80.86.83.121/ is DOWN
+IP: http://176.58.111.244/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://149.126.77.253/ is UP
+IP: http://199.34.228.50/ is UP
+IP: http://64.14.68.156/ is UP
+IP: http://208.94.116.10/ is UP
+IP: http://66.96.161.192/ is UP
+IP: http://198.61.177.197/ is UP
+Error checking 157.230.194.58: error sending request for url (http://157.230.194.58/): connection closed before message completed
+IP: http://157.230.194.58/ is DOWN
+IP: http://109.238.34.162/ is DOWN
+IP: http://85.17.216.117/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.166.219.22/ is UP
+IP: http://67.205.32.66/ is UP
+IP: http://198.199.84.114/ is UP
+IP: http://50.116.3.249/ is UP
+IP: http://162.243.150.165/ is DOWN
+IP: http://76.219.106.128/ is DOWN
+IP: http://108.3.146.29/ is DOWN
+IP: http://54.225.200.50/ is DOWN
+IP: http://178.33.42.216/ is DOWN
+IP: http://192.134.5.8/ is DOWN
+IP: http://109.67.136.187/ is DOWN
+IP: http://85.159.233.238/ is DOWN
+IP: http://84.200.122.221/ is DOWN
+IP: http://84.85.128.248/ is DOWN
+IP: http://188.117.32.243/ is DOWN
+IP: http://95.211.41.75/ is DOWN
+IP: http://46.4.46.73/ is DOWN
+IP: http://140.113.246.196/ is DOWN
+IP: http://196.1.61.226/ is DOWN
+IP: http://131.251.168.99/ is DOWN
+IP: http://213.171.198.110/ is DOWN
+IP: http://62.189.37.62/ is DOWN
+IP: http://79.99.135.181/ is DOWN
+IP: http://50.63.196.50/ is DOWN
+IP: http://50.172.84.107/ is DOWN
+IP: http://108.66.134.195/ is DOWN
+IP: http://91.151.181.162/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://81.169.145.64/ is UP
+IP: http://83.169.4.158/ is UP
+IP: http://62.48.3.143/ is UP
+IP: http://162.243.56.5/ is UP
+IP: http://107.20.252.197/ is UP
+IP: http://24.165.177.193/ is DOWN
+IP: http://197.221.2.183/ is DOWN
+IP: http://213.171.198.109/ is DOWN
+IP: http://54.187.171.163/ is DOWN
+IP: http://199.102.104.163/ is DOWN
+IP: http://67.205.7.22/ is DOWN
+IP: http://107.150.34.218/ is DOWN
+IP: http://77.107.101.162/ is DOWN
+IP: http://216.241.32.24/ is DOWN
+IP: http://130.206.83.99/ is DOWN
+IP: http://67.190.148.149/ is DOWN
+IP: http://192.241.227.144/ is DOWN
+IP: http://98.113.12.189/ is DOWN
+IP: http://64.85.162.227/ is DOWN
+IP: http://184.154.115.250/ is DOWN
+IP: http://75.127.14.216/ is DOWN
+IP: http://192.241.213.154/ is DOWN
+IP: http://192.184.82.151/ is DOWN
+IP: http://134.2.2.29/ is DOWN
+IP: http://82.221.105.125/ is DOWN
+IP: http://24.22.222.18/ is DOWN
+IP: http://69.132.105.6/ is DOWN
+IP: http://109.228.11.33/ is DOWN
+IP: http://94.228.142.105/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://31.3.227.105/ is UP
+IP: http://31.170.160.107/ is UP
+IP: http://50.28.58.39/ is UP
+IP: http://64.64.181.157/ is UP
+IP: http://108.160.166.62/ is DOWN
+IP: http://144.76.7.83/ is DOWN
+IP: http://69.43.163.181/ is DOWN
+IP: http://96.127.162.58/ is DOWN
+IP: http://216.242.215.15/ is DOWN
+IP: http://192.241.229.106/ is DOWN
+IP: http://67.205.62.251/ is DOWN
+IP: http://24.73.154.245/ is DOWN
+IP: http://74.121.192.212/ is DOWN
+IP: http://5.39.95.17/ is DOWN
+IP: http://64.57.244.219/ is DOWN
+IP: http://50.28.20.5/ is DOWN
+IP: http://37.206.132.88/ is DOWN
+IP: http://173.194.41.99/ is DOWN
+IP: http://97.74.215.19/ is DOWN
+IP: http://59.167.122.117/ is DOWN
+IP: http://69.16.172.158/ is DOWN
+IP: http://91.222.8.101/ is DOWN
+IP: http://24.21.141.203/ is DOWN
+IP: http://71.3.17.85/ is DOWN
+IP: http://94.76.254.5/ is DOWN
+IP: http://50.16.212.166/ is DOWN
+IP: http://41.178.124.167/ is DOWN
+IP: http://64.34.181.158/ is DOWN
+IP: http://66.23.238.90/ is DOWN
+IP: http://199.27.78.133/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.1.101/ is not public
+IP: http://127.0.0.2/ is not public
+IP: http://88.198.50.88/ is UP
+IP: http://87.106.129.143/ is DOWN
+IP: http://46.28.110.250/ is UP
+IP: http://5.45.103.155/ is UP
+IP: http://91.198.106.9/ is UP
+IP: http://72.14.189.138/ is UP
+IP: http://65.39.205.54/ is UP
+IP: http://184.105.182.100/ is UP
+IP: http://99.192.226.225/ is DOWN
+IP: http://94.242.255.57/ is DOWN
+IP: http://69.16.226.114/ is DOWN
+IP: http://62.76.191.55/ is DOWN
+IP: http://74.125.39.104/ is DOWN
+IP: http://95.85.5.26/ is DOWN
+IP: http://106.187.47.17/ is DOWN
+IP: http://109.235.51.82/ is DOWN
+IP: http://62.75.221.135/ is DOWN
+IP: http://137.135.59.87/ is DOWN
+IP: http://71.1.45.3/ is DOWN
+IP: http://65.39.148.219/ is DOWN
+IP: http://69.20.153.106/ is DOWN
+IP: http://85.234.133.191/ is DOWN
+IP: http://81.89.108.66/ is DOWN
+IP: http://5.35.253.206/ is DOWN
+IP: http://82.199.65.61/ is DOWN
+IP: http://96.127.133.42/ is DOWN
+IP: http://106.172.229.51/ is DOWN
+IP: http://72.29.68.31/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://38.180.228.53/ is UP
+IP: http://162.159.249.65/ is UP
+IP: http://95.143.172.53/ is UP
+IP: http://94.23.252.190/ is UP
+IP: http://107.152.38.155/ is UP
+IP: http://31.170.162.74/ is UP
+IP: http://72.14.176.151/ is UP
+IP: http://5.9.107.79/ is DOWN
+IP: http://108.61.170.200/ is DOWN
+IP: http://216.38.28.31/ is DOWN
+IP: http://198.52.126.162/ is DOWN
+IP: http://95.138.187.100/ is DOWN
+IP: http://213.157.94.92/ is DOWN
+IP: http://54.196.123.196/ is DOWN
+IP: http://94.23.188.92/ is DOWN
+IP: http://87.98.245.54/ is DOWN
+IP: http://46.19.36.117/ is DOWN
+IP: http://164.15.127.20/ is DOWN
+IP: http://54.247.74.16/ is DOWN
+IP: http://223.255.151.138/ is DOWN
+IP: http://109.228.16.166/ is DOWN
+IP: http://23.21.182.158/ is DOWN
+IP: http://94.229.76.35/ is DOWN
+IP: http://54.213.148.20/ is DOWN
+IP: http://208.69.127.59/ is DOWN
+IP: http://70.176.29.148/ is DOWN
+IP: http://98.101.247.254/ is DOWN
+IP: http://74.125.239.142/ is DOWN
+IP: http://128.199.241.132/ is DOWN
+IP: http://78.63.237.151/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://194.120.116.196/ is DOWN
+IP: http://83.169.22.26/ is UP
+IP: http://80.211.208.129/ is UP
+IP: http://192.185.40.199/ is UP
+IP: http://173.254.28.61/ is UP
+IP: http://185.4.135.71/ is UP
+IP: http://80.98.159.161/ is DOWN
+IP: http://69.89.27.207/ is DOWN
+IP: http://1.2.3.5/ is DOWN
+IP: http://83.167.252.116/ is DOWN
+IP: http://36.55.238.28/ is DOWN
+IP: http://69.85.92.119/ is DOWN
+IP: http://64.142.56.172/ is DOWN
+IP: http://162.243.73.168/ is DOWN
+IP: http://24.166.109.11/ is DOWN
+IP: http://164.138.28.170/ is DOWN
+IP: http://54.213.6.154/ is DOWN
+IP: http://85.159.41.95/ is DOWN
+IP: http://94.71.158.121/ is DOWN
+IP: http://180.157.5.17/ is DOWN
+IP: http://162.218.208.166/ is DOWN
+IP: http://27.33.60.98/ is DOWN
+IP: http://50.31.24.44/ is DOWN
+IP: http://87.106.29.250/ is DOWN
+IP: http://173.192.120.180/ is DOWN
+IP: http://81.169.249.52/ is DOWN
+IP: http://207.38.168.148/ is DOWN
+IP: http://192.241.185.220/ is DOWN
+IP: http://46.17.96.34/ is DOWN
+IP: http://162.251.81.36/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://10.0.0.1/ is not public
+IP: http://0.0.0.0/ is not public
+IP: http://2.35.5.112/ is UP
+IP: http://184.73.251.152/ is DOWN
+IP: http://67.227.240.201/ is DOWN
+IP: http://54.235.205.195/ is UP
+IP: http://65.254.248.204/ is UP
+IP: http://192.64.115.84/ is UP
+IP: http://184.105.204.187/ is DOWN
+IP: http://54.212.254.214/ is DOWN
+IP: http://95.88.145.34/ is DOWN
+IP: http://75.182.95.45/ is DOWN
+IP: http://213.206.120.221/ is DOWN
+IP: http://98.232.93.72/ is DOWN
+IP: http://76.72.175.169/ is DOWN
+IP: http://62.89.167.200/ is DOWN
+IP: http://116.240.169.115/ is DOWN
+IP: http://213.251.184.77/ is DOWN
+IP: http://190.115.24.114/ is DOWN
+IP: http://46.151.84.16/ is DOWN
+IP: http://176.9.79.229/ is DOWN
+IP: http://203.123.103.166/ is DOWN
+IP: http://173.77.182.230/ is DOWN
+IP: http://24.36.182.99/ is DOWN
+IP: http://173.194.43.119/ is DOWN
+IP: http://82.211.205.202/ is DOWN
+IP: http://108.167.43.8/ is DOWN
+IP: http://212.232.51.96/ is DOWN
+IP: http://67.23.25.60/ is DOWN
+IP: http://46.105.17.248/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.1.1/ is not public
+IP: http://82.66.70.225/ is UP
+IP: http://173.255.227.13/ is DOWN
+IP: http://54.235.215.150/ is DOWN
+IP: http://69.165.169.164/ is DOWN
+IP: http://93.158.134.11/ is UP
+IP: http://192.30.252.153/ is UP
+IP: http://192.155.88.40/ is UP
+IP: http://66.228.36.80/ is UP
+IP: http://95.211.30.122/ is DOWN
+IP: http://142.165.167.196/ is DOWN
+IP: http://216.51.232.177/ is DOWN
+IP: http://162.243.93.40/ is DOWN
+IP: http://192.0.131.79/ is DOWN
+IP: http://213.171.197.102/ is DOWN
+IP: http://208.186.102.190/ is DOWN
+IP: http://24.6.74.4/ is DOWN
+IP: http://74.201.150.103/ is DOWN
+IP: http://190.224.159.252/ is DOWN
+IP: http://60.28.135.8/ is DOWN
+IP: http://193.91.69.195/ is DOWN
+IP: http://72.47.203.176/ is DOWN
+IP: http://212.48.8.140/ is DOWN
+IP: http://211.154.148.12/ is DOWN
+IP: http://195.78.50.3/ is DOWN
+IP: http://212.43.240.101/ is DOWN
+IP: http://69.67.54.200/ is DOWN
+IP: http://74.217.87.169/ is DOWN
+IP: http://77.175.119.133/ is DOWN
+IP: http://92.222.26.81/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://10.127.71.164/ is not public
+IP: http://192.168.1.40/ is not public
+IP: http://176.9.25.72/ is UP
+IP: http://192.98.104.71/ is DOWN
+IP: http://74.125.196.121/ is UP
+IP: http://192.185.35.58/ is UP
+IP: http://198.58.110.225/ is UP
+IP: http://162.0.215.215/ is UP
+IP: http://184.74.181.118/ is DOWN
+IP: http://98.199.191.238/ is DOWN
+IP: http://208.124.62.24/ is DOWN
+IP: http://82.211.221.221/ is DOWN
+IP: http://212.110.187.28/ is DOWN
+IP: http://109.91.176.254/ is DOWN
+IP: http://162.244.82.95/ is DOWN
+IP: http://159.43.20.157/ is DOWN
+IP: http://8.8.8.8/ is DOWN
+IP: http://78.47.104.6/ is DOWN
+IP: http://62.141.41.25/ is DOWN
+IP: http://208.84.155.208/ is DOWN
+IP: http://130.225.74.243/ is DOWN
+IP: http://72.27.230.66/ is DOWN
+IP: http://74.125.224.72/ is DOWN
+IP: http://79.171.98.146/ is DOWN
+IP: http://217.119.79.30/ is DOWN
+IP: http://91.121.89.166/ is DOWN
+IP: http://46.32.225.146/ is DOWN
+IP: http://24.166.141.110/ is DOWN
+IP: http://65.67.51.187/ is DOWN
+IP: http://91.250.85.116/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://127.0.0.1/ is not public
+IP: http://10.10.10.1/ is not public
+IP: http://192.168.1.43/ is not public
+IP: http://78.46.186.182/ is UP
+IP: http://162.159.137.6/ is UP
+IP: http://217.31.82.82/ is UP
+IP: http://83.169.6.51/ is UP
+IP: http://185.148.147.15/ is UP
+IP: http://173.255.232.233/ is UP
+IP: http://72.179.17.231/ is UP
+IP: http://173.254.28.117/ is UP
+IP: http://77.75.105.74/ is DOWN
+IP: http://92.222.9.187/ is DOWN
+IP: http://199.168.219.210/ is DOWN
+IP: http://173.255.131.205/ is DOWN
+IP: http://85.17.155.83/ is DOWN
+IP: http://69.16.226.45/ is DOWN
+IP: http://94.124.93.216/ is DOWN
+IP: http://192.184.91.32/ is DOWN
+IP: http://54.201.167.58/ is DOWN
+IP: http://66.79.188.22/ is DOWN
+IP: http://200.77.168.52/ is DOWN
+IP: http://162.243.194.71/ is DOWN
+IP: http://94.212.47.174/ is DOWN
+IP: http://75.155.34.15/ is DOWN
+IP: http://46.246.111.190/ is DOWN
+IP: http://208.113.218.160/ is DOWN
+IP: http://97.74.215.16/ is DOWN
+IP: http://46.4.96.132/ is DOWN
+IP: http://18.0.0.1/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://127.0.1.1/ is not public
+IP: http://88.198.254.198/ is UP
+IP: http://216.239.34.21/ is UP
+IP: http://46.4.70.63/ is UP
+IP: http://66.6.44.4/ is UP
+IP: http://50.28.8.113/ is UP
+IP: http://67.20.75.156/ is UP
+IP: http://31.3.76.250/ is DOWN
+IP: http://68.233.250.52/ is DOWN
+IP: http://151.1.67.215/ is DOWN
+IP: http://204.27.59.116/ is DOWN
+IP: http://216.243.183.14/ is DOWN
+IP: http://5.39.81.216/ is DOWN
+IP: http://109.90.32.164/ is DOWN
+IP: http://68.181.191.216/ is DOWN
+IP: http://46.105.96.190/ is DOWN
+IP: http://23.23.178.178/ is DOWN
+IP: http://50.23.151.32/ is DOWN
+IP: http://122.116.88.45/ is DOWN
+IP: http://64.57.244.222/ is DOWN
+IP: http://109.75.176.244/ is DOWN
+IP: http://216.58.57.37/ is DOWN
+IP: http://213.187.93.252/ is DOWN
+IP: http://67.225.195.30/ is DOWN
+IP: http://79.98.26.219/ is DOWN
+IP: http://198.211.125.189/ is DOWN
+IP: http://176.9.216.193/ is DOWN
+IP: http://174.136.100.99/ is DOWN
+IP: http://82.168.227.93/ is DOWN
+IP: http://188.231.177.149/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://5.61.34.212/ is UP
+IP: http://46.4.25.155/ is UP
+IP: http://96.127.159.90/ is DOWN
+IP: http://198.211.103.66/ is UP
+IP: http://97.107.142.75/ is UP
+IP: http://173.255.218.124/ is UP
+IP: http://184.94.215.88/ is UP
+IP: http://208.91.198.47/ is UP
+IP: http://192.99.247.234/ is UP
+IP: http://184.168.221.23/ is DOWN
+IP: http://71.56.158.94/ is DOWN
+IP: http://50.46.200.252/ is DOWN
+IP: http://207.12.89.218/ is DOWN
+IP: http://82.8.140.146/ is DOWN
+IP: http://62.12.68.6/ is DOWN
+IP: http://78.60.77.63/ is DOWN
+IP: http://91.121.70.191/ is DOWN
+IP: http://4.2.2.4/ is DOWN
+IP: http://66.212.245.170/ is DOWN
+IP: http://15.27.76.73/ is DOWN
+IP: http://119.9.43.230/ is DOWN
+IP: http://125.65.165.157/ is DOWN
+IP: http://65.74.131.28/ is DOWN
+IP: http://74.125.225.203/ is DOWN
+IP: http://162.243.131.173/ is DOWN
+IP: http://54.235.73.82/ is DOWN
+IP: http://81.136.196.62/ is DOWN
+IP: http://165.59.111.204/ is DOWN
+IP: http://137.12.182.127/ is DOWN
+IP: http://97.74.144.132/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.0.3/ is not public
+IP: http://185.12.14.80/ is DOWN
+IP: http://95.143.172.227/ is UP
+IP: http://91.219.237.223/ is UP
+IP: http://70.34.214.121/ is UP
+IP: http://4.53.16.143/ is UP
+IP: http://50.87.150.97/ is UP
+IP: http://199.58.84.77/ is DOWN
+IP: http://70.90.209.122/ is DOWN
+IP: http://98.254.240.178/ is DOWN
+IP: http://98.196.156.248/ is DOWN
+IP: http://74.207.250.252/ is DOWN
+IP: http://76.92.226.48/ is DOWN
+IP: http://74.125.225.232/ is DOWN
+IP: http://51.15.106.177/ is DOWN
+IP: http://38.88.191.84/ is DOWN
+IP: http://37.26.108.116/ is DOWN
+IP: http://176.58.121.140/ is DOWN
+IP: http://54.252.198.253/ is DOWN
+IP: http://108.61.63.237/ is DOWN
+IP: http://188.138.10.193/ is DOWN
+IP: http://68.53.91.155/ is DOWN
+IP: http://184.73.248.245/ is DOWN
+IP: http://178.79.158.91/ is DOWN
+IP: http://55.85.76.222/ is DOWN
+IP: http://95.85.40.11/ is DOWN
+IP: http://46.21.159.236/ is DOWN
+IP: http://162.242.198.37/ is DOWN
+IP: http://192.73.234.138/ is DOWN
+IP: http://95.154.217.180/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.168.111.20/ is not public
+IP: http://1.1.1.1/ is UP
+IP: http://88.99.137.121/ is UP
+IP: http://176.9.54.75/ is UP
+IP: http://77.244.242.164/ is UP
+IP: http://66.49.204.17/ is UP
+IP: http://74.124.198.62/ is DOWN
+IP: http://78.46.130.153/ is DOWN
+IP: http://175.41.21.13/ is DOWN
+IP: http://2.86.22.254/ is DOWN
+IP: http://119.224.104.221/ is DOWN
+IP: http://174.136.102.109/ is DOWN
+IP: http://162.243.70.18/ is DOWN
+IP: http://81.19.70.3/ is DOWN
+IP: http://31.222.158.117/ is DOWN
+IP: http://70.79.76.3/ is DOWN
+IP: http://64.57.244.220/ is DOWN
+IP: http://54.245.80.188/ is DOWN
+IP: http://174.36.183.108/ is DOWN
+IP: http://5.254.137.46/ is DOWN
+IP: http://192.157.202.147/ is DOWN
+IP: http://91.197.85.98/ is DOWN
+IP: http://23.20.255.33/ is DOWN
+IP: http://96.127.188.106/ is DOWN
+IP: http://194.144.61.65/ is DOWN
+IP: http://176.110.156.50/ is DOWN
+IP: http://68.174.209.161/ is DOWN
+IP: http://195.123.213.135/ is DOWN
+IP: http://50.57.72.201/ is DOWN
+IP: http://79.98.29.93/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://192.185.225.13/ is UP
+IP: http://85.17.207.45/ is DOWN
+IP: http://46.22.208.104/ is DOWN
+IP: http://198.211.126.57/ is DOWN
+IP: http://97.107.137.243/ is DOWN
+IP: http://89.88.84.31/ is DOWN
+IP: http://132.180.136.24/ is DOWN
+IP: http://24.149.32.159/ is DOWN
+IP: http://80.101.37.188/ is DOWN
+IP: http://162.243.56.54/ is DOWN
+IP: http://217.122.54.179/ is DOWN
+IP: http://91.208.99.12/ is DOWN
+IP: http://5.9.85.34/ is DOWN
+IP: http://80.175.110.33/ is DOWN
+IP: http://54.225.60.231/ is DOWN
+IP: http://212.187.124.93/ is DOWN
+IP: http://192.89.123.231/ is DOWN
+IP: http://184.168.249.1/ is DOWN
+IP: http://5.104.106.156/ is DOWN
+IP: http://42.121.16.215/ is DOWN
+IP: http://216.155.145.222/ is DOWN
+IP: http://50.7.195.2/ is DOWN
+IP: http://130.225.74.253/ is DOWN
+IP: http://212.159.19.195/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+IP: http://89.31.100.161/ is DOWN
+IP: http://50.159.66.8/ is DOWN
+IP: http://213.146.191.170/ is DOWN
+IP: http://74.96.167.197/ is DOWN
+IP: http://81.90.69.131/ is DOWN
+IP: http://198.74.61.19/ is DOWN
+IP: http://185.27.174.71/ is DOWN
+IP: http://98.160.219.194/ is DOWN
+IP: http://94.124.94.40/ is DOWN
+IP: http://173.255.251.182/ is DOWN
+IP: http://217.84.52.61/ is DOWN
+IP: http://107.170.105.72/ is DOWN
+IP: http://107.20.217.27/ is DOWN
+IP: http://198.7.229.11/ is DOWN
+IP: http://51.255.203.108/ is DOWN
+IP: http://173.10.71.14/ is DOWN
+IP: http://81.243.151.78/ is DOWN
+IP: http://80.101.226.191/ is DOWN
+IP: http://1.2.3.4/ is DOWN
+IP: http://37.187.243.109/ is DOWN
+IP: http://66.172.27.84/ is DOWN
+IP: http://202.175.83.78/ is DOWN
+IP: http://64.28.35.62/ is DOWN
+IP: http://130.225.74.254/ is DOWN
+IP: http://66.165.234.62/ is DOWN
+need_test_names = 0
+check_names = 0
+Syncing db
+First query
+99139 items, next query: d/obeid
+99394 items, next query: d/comanic
+99680 items, next query: d/indentor
+99702 items, next query: d/order-now
+99712 items, next query: d/virgocoins
+99750 items, next query: d/smallmouthed
+84096 items, next query: d/gooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooogle
+Syncing db
