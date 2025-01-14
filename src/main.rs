@@ -338,6 +338,11 @@ impl Server {
 
     async fn http_check_ip(self: Arc<Self>, ip: Ipv4Addr) {
         let url = format!("http://{}/", ip);
+        if !is_public_routed_ip(ip) {
+            println!("IP: {} is not public", url);
+            self.m.lock().await.ip_check(ip, false, now_sec());
+            return;
+        }
         let res = http_get(&url, &self.config, &self.resolver).await;
         let res = match res {
             Ok(HttpGetRes::Ok(..)) => {
